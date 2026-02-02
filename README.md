@@ -7,15 +7,22 @@ I love creating projects and improving my skills.
 
 ## 🛠️ Technologies I Work With
 
-- **JavaScript** / **TypeScript**  
+### Frontend
 - **React** / **Vite**  
-- **HTML**, **CSS**, **Tailwind CSS**  
-- **Git** / **GitHub**
+- **HTML**, **CSS**, **Tailwind CSS**
+- **JavaScript** / **TypeScript**
+- **Expo - learning**
+### Backend  
 - **PHP**  
 - **MySQL**  
 - **MSSQL**  
-- **PostgreSQL**  
-- **C++**  
+- **PostgreSQL**
+### Fullstack
+- **Next.js**
+### Languages & Other tools
+- **Git** / **GitHub**
+- **Figma**
+- **C++**
 
 ---
 
