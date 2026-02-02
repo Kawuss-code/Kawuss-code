@@ -26,13 +26,6 @@ I love creating projects and improving my skills.
 
 ---
 
-## 📊 My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawuss-code&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kawuss-code&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact
 
 - GitHub: [Kawuss-code](https://github.com/Kawuss-code)  
